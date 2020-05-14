@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.box{
+  margin: 15px;
+  color: rebeccapurple;
+  background-color: tomato;
+  top: 0;
+  left: 0;
+  height: 500px;
+  width: 250px;
+  position: absolute;
+  border-style: double;
+}
+.hello{
+  background-color: royalblue;
+  color: beige;
+}
+.hello:hover{
+  background-color: salmon;
+  color: palegoldenrod;
+}
+.float p{
+  margin-top: 75px;
+  padding: 50px;
+  text-align: center;
+  margin-right: 100px;
+  margin-left: 100px;
+}
